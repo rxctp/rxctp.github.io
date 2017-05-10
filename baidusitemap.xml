@@ -5,13 +5,13 @@
     
   <url>
     <loc>https://www.irxiang.com/2017/05/09/%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91%E5%85%8D%E8%B4%B9%E7%9A%84SSL%E8%AF%81%E4%B9%A6%E8%AE%A9%E4%BD%A0%E7%BD%91%E7%AB%99%E6%94%B9%E4%B8%BAHTTPS/</loc>
-    <lastmod>2017-05-09T06:47:21.758Z</lastmod>
+    <lastmod>2017-05-10T12:35:15.129Z</lastmod>
     <data>
         <display>
         <title>用阿里云免费的SSL证书让你网站改为HTTPS</title>
         <pubTime>2017-05-09T05:34:17.000Z</pubTime>
         
-        <tag>阿里云,https,ssl,hexo</tag>
+        <tag>https</tag>
          
          
            
@@ -22,13 +22,30 @@
     
   <url>
     <loc>https://www.irxiang.com/2017/05/05/Centos7-%E5%AE%89%E8%A3%85autojump/</loc>
-    <lastmod>2017-05-05T07:09:54.069Z</lastmod>
+    <lastmod>2017-05-10T12:34:54.391Z</lastmod>
     <data>
         <display>
         <title>Centos7 安装autojump</title>
         <pubTime>2017-05-05T06:57:53.000Z</pubTime>
         
-        <tag>Centos7 autojump zsh</tag>
+        <tag>linux</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.irxiang.com/2017/05/10/https-%E6%82%A8%E4%B8%8E%E6%AD%A4%E7%BD%91%E7%AB%99%E4%B9%8B%E9%97%B4%E5%BB%BA%E7%AB%8B%E7%9A%84%E8%BF%9E%E6%8E%A5%E5%B9%B6%E9%9D%9E%E5%AE%8C%E5%85%A8%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2017-05-10T12:33:13.509Z</lastmod>
+    <data>
+        <display>
+        <title>https 您与此网站之间建立的连接并非完全安全</title>
+        <pubTime>2017-05-10T12:28:32.000Z</pubTime>
+        
+        <tag>https</tag>
          
          
            
